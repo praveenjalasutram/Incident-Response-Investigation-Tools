@@ -4,10 +4,18 @@ This is a collection of important tools that can be used by cyber security analy
 ## Email Investigation Tools
 - Hunter Email Verifier: https://hunter.io/email-verifier
 - Free Email Verifier: https://freemailverifier.com/
-- Epios Reverse Email Lookup: https://epieos.com/
-- Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
 - MXToolbox Email Header Analyzer: https://mxtoolbox.com/EmailHeaders.aspx
 - IP2Location Email Tracer: https://www.ip2location.com/free/email-tracer
+- Epios Reverse Email Lookup: https://epieos.com/
+- Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
+
+## Email Compromise/Breach Analyzers
+- Have I Been Pwned: https://haveibeenpwned.com/
+- Email Checker: https://email-checker.net/
+- Can I be Pwned: https://canibepwned.com/
+- PwnCheck: https://pwncheck.me/
+- CheckpwnedEmails Github: https://github.com/Techno-Hwizrdry/checkpwnedemails
+- Check Them: https://www.checkthem.com/hacked/
 
 ## IP/Domain Investigation
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
