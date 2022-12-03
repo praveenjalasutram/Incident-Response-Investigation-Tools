@@ -9,6 +9,7 @@ This is a collection of important tools that can be used by cyber security analy
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
 
+
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
 - Email Checker: https://email-checker.net/
@@ -21,6 +22,7 @@ This is a collection of important tools that can be used by cyber security analy
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
 - CIDR Company IP Mapping: https://www.cidr-report.org/as2.0/
 - AbuseIPDB: https://www.abuseipdb.com/
+- PhishTank: https://phishtank.org/index.php
 - MXToolBox Domain/IP lookup: https://mxtoolbox.com/SuperTool.aspx
 - DomainTools Whois lookup: https://whois.domaintools.com/
 - Whois: https://www.whois.com/whois
