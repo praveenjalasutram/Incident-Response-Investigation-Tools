@@ -9,7 +9,6 @@ This is a collection of important tools that can be used by cyber security analy
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
 
-
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
 - Email Checker: https://email-checker.net/
@@ -22,12 +21,17 @@ This is a collection of important tools that can be used by cyber security analy
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
 - CIDR Company IP Mapping: https://www.cidr-report.org/as2.0/
 - AbuseIPDB: https://www.abuseipdb.com/
+- Censys: https://search.censys.io/
 - PhishTank: https://phishtank.org/index.php
+- DNSBL SpamChecker: https://www.dnsbl.info/
+- Barracuda IP/Domain: https://www.barracudacentral.org/lookups
 - MXToolBox Domain/IP lookup: https://mxtoolbox.com/SuperTool.aspx
 - DomainTools Whois lookup: https://whois.domaintools.com/
 - Whois: https://www.whois.com/whois
 - Robtex: https://www.robtex.com/
 - IPStack IP Lookup: https://ipstack.com/
+- CIRCL BGP Ranking: https://bgpranking.circl.lu/
+- Multirbl: https://multirbl.valli.org/
 
 ## Reputation Checking
 - VirusTotal: https://www.virustotal.com/gui/home/search
@@ -45,6 +49,10 @@ This is a collection of important tools that can be used by cyber security analy
 - RecordedFuture Triage: https://tria.ge/
 - Yomi Yoroi: https://yomi.yoroi.company/upload
 - PacketTotal: https://packettotal.com
+
+##DDoS Tools:
+- NetLab Statistics: https://scan.netlab.360.com/#/dashboard
+- DDoSMon: https://ddosmon.net/
 
 ## Other Important Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
