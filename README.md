@@ -50,9 +50,9 @@ This is a collection of important tools that can be used by cyber security analy
 - Yomi Yoroi: https://yomi.yoroi.company/upload
 - PacketTotal: https://packettotal.com
 
-##DDoS Tools:
+## DDoS Tools:
 - NetLab Statistics: https://scan.netlab.360.com/#/dashboard
 - DDoSMon: https://ddosmon.net/
 
-## Other Important Resources
+## Other Good Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
