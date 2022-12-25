@@ -21,6 +21,8 @@ This is a collection of important tools that can be used by cyber security analy
 - LeakPeek: https://leakpeek.com/
 - IntelligenceX: https://intelx.io/
 - Raidforums: 
+- Email Address Extractor from Domain: https://phonebook.cz/
+- Email-Format Database & Email Pattern Extractor: https://www.email-format.com/
 
 ## IP/Domain Investigation
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
