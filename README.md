@@ -61,5 +61,9 @@ This is a collection of important tools that can be used by cyber security analy
 - NetLab Statistics: https://scan.netlab.360.com/#/dashboard
 - DDoSMon: https://ddosmon.net/
 
+##Criminal Records
+- BlackBookOnline USA: https://www.blackbookonline.info/
+- Federal Bureau of Prisons: https://www.bop.gov/mobile/find_inmate/byname.jsp
+
 ## Other Good Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
