@@ -16,6 +16,11 @@ This is a collection of important tools that can be used by cyber security analy
 - PwnCheck: https://pwncheck.me/
 - CheckpwnedEmails Github: https://github.com/Techno-Hwizrdry/checkpwnedemails
 - Check Them: https://www.checkthem.com/hacked/
+- PWDQuery: https://pwdquery.xyz/
+- Leakcheck: https://leakcheck.io/
+- LeakPeek: https://leakpeek.com/
+- IntelligenceX: https://intelx.io/
+- Raidforums: 
 
 ## IP/Domain Investigation
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
