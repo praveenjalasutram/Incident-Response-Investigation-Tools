@@ -8,8 +8,6 @@ This is a collection of important tools that can be used by cyber security analy
 - IP2Location Email Tracer: https://www.ip2location.com/free/email-tracer
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
-- Scamdoc: https://www.scamdoc.com/
-- URL Unshorten: https://checkshorturl.com/
 
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
@@ -41,6 +39,9 @@ This is a collection of important tools that can be used by cyber security analy
 - IPStack IP Lookup: https://ipstack.com/
 - CIRCL BGP Ranking: https://bgpranking.circl.lu/
 - Multirbl: https://multirbl.valli.org/
+- Scamdoc: https://www.scamdoc.com/
+- URL Unshorten: https://checkshorturl.com/
+- Browserling - https://www.browserling.com/
 
 ## Reputation Checking
 - VirusTotal: https://www.virustotal.com/gui/home/search
