@@ -8,6 +8,8 @@ This is a collection of important tools that can be used by cyber security analy
 - IP2Location Email Tracer: https://www.ip2location.com/free/email-tracer
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
+- Scamdoc: https://www.scamdoc.com/
+- URL Unshorten: https://checkshorturl.com/
 
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
