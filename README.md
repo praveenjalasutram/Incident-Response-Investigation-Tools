@@ -23,6 +23,8 @@ This is a collection of important tools that can be used by cyber security analy
 - Email Address Extractor from Domain: https://phonebook.cz/
 - Email-Format Database & Email Pattern Extractor: https://www.email-format.com/
 - RaidForum:
+- Mobile Number generator for OTP: https://receive-sms-online.info/
+- Mobile Number generator for OTP: https://receive-smss.com/
 
 ## IP/Domain Investigation
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
