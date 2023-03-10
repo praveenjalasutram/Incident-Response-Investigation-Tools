@@ -27,6 +27,7 @@ This is a collection of important tools that can be used by cyber security analy
 - Mobile Number generator for OTP: https://receive-smss.com/
 
 ## IP/Domain Investigation
+- Cylect - All in one - https://cylect.io/project-anthony-ultimate-osint-tool
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
 - CIDR Company IP Mapping: https://www.cidr-report.org/as2.0/
 - AbuseIPDB: https://www.abuseipdb.com/
