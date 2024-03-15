@@ -28,6 +28,7 @@ This is a collection of important tools that can be used by cyber security analy
 
 ## IP/Domain Investigation
 - Cylect - All in one - https://cylect.io/project-anthony-ultimate-osint-tool
+- SpiderFoot - All in one that works on Linux Machine- https://github.com/smicallef/spiderfoot
 - IP Ranges: https://en.wikipedia.org/wiki/Regional_Internet_registry
 - CIDR Company IP Mapping: https://www.cidr-report.org/as2.0/
 - AbuseIPDB: https://www.abuseipdb.com/
