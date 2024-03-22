@@ -9,6 +9,9 @@ This is a collection of important tools that can be used by cyber security analy
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
 - Email Sherlock: https://www.emailsherlock.com/
+- IP Quality Score: https://www.ipqualityscore.com/reverse-email-lookup
+- Num Lookup: https://numlooker.com/reverse-email-lookup
+- Been Verified: https://www.beenverified.com/
 
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
@@ -79,6 +82,8 @@ This is a collection of important tools that can be used by cyber security analy
 ## Social Media and People OSINT
 - Social Searcher: https://www.social-searcher.com/
 - WhatsMyName App: https://whatsmyname.app/
+- Peeplookup: https://www.peeplookup.com/free-people-search
+- 
 
 ## Other Good Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
