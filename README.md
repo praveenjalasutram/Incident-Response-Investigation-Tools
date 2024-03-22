@@ -1,13 +1,14 @@
 # Cyber Security Incident Response - Investigation Tools
 This is a collection of important tools that can be used by cyber security analysts and cyber security incident responders to perform investigations. The aim of this project is to improve the Mean-Time-To-Respond (MTTR)
 
-## Email Investigation Tools
+## Email and Reverse Email Investigation Tools
 - Hunter Email Verifier: https://hunter.io/email-verifier
 - Free Email Verifier: https://freemailverifier.com/
 - MXToolbox Email Header Analyzer: https://mxtoolbox.com/EmailHeaders.aspx
 - IP2Location Email Tracer: https://www.ip2location.com/free/email-tracer
 - Epios Reverse Email Lookup: https://epieos.com/
 - Spokeo Reverse Email Lookup: https://www.spokeo.com/email-search
+- Email Sherlock: https://www.emailsherlock.com/
 
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
@@ -22,7 +23,6 @@ This is a collection of important tools that can be used by cyber security analy
 - IntelligenceX: https://intelx.io/
 - Email Address Extractor from Domain: https://phonebook.cz/
 - Email-Format Database & Email Pattern Extractor: https://www.email-format.com/
-- RaidForum:
 - Mobile Number generator for OTP: https://receive-sms-online.info/
 - Mobile Number generator for OTP: https://receive-smss.com/
 
@@ -46,6 +46,7 @@ This is a collection of important tools that can be used by cyber security analy
 - Scamdoc: https://www.scamdoc.com/
 - URL Unshorten: https://checkshorturl.com/
 - Browserling - https://www.browserling.com/
+- DNS Dumpster - https://dnsdumpster.com/
 
 ## Reputation Checking
 - VirusTotal: https://www.virustotal.com/gui/home/search
@@ -68,12 +69,16 @@ This is a collection of important tools that can be used by cyber security analy
 - NetLab Statistics: https://scan.netlab.360.com/#/dashboard
 - DDoSMon: https://ddosmon.net/
 
-##Criminal Records
+## Criminal Records
 - BlackBookOnline USA: https://www.blackbookonline.info/
 - Federal Bureau of Prisons: https://www.bop.gov/mobile/find_inmate/byname.jsp
 - City Protect: https://cityprotect.com/map/list/agencies?toDate=2022-12-25T23:59:59.999Z&fromDate=2022-12-22T00:00:00.000Z&pageSize=2000&parentIncidentTypeIds=149,150,148,8,97,104,165,98,100,179,178,180,101,99,103,163,168,166,12,161,14,16,15&zoomLevel=5&latitude=37.72581293384054&longitude=-101.06433712762069&days=1,2,3,4,5,6,7&startHour=0&endHour=24&timezone=%2B00:00&relativeDate=custom&id=5ce2bd923934cc0011edaadf
 - Family Watchdog: https://www.familywatchdog.us/
 - Vine DHS GOV: https://vinelink.dhs.gov/#/map
+
+## Social Media and People OSINT
+- Social Searcher: https://www.social-searcher.com/
+- WhatsMyName App: https://whatsmyname.app/
 
 ## Other Good Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
