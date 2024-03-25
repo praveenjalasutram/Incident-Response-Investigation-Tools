@@ -11,7 +11,15 @@ This is a collection of important tools that can be used by cyber security analy
 - Email Sherlock: https://www.emailsherlock.com/
 - IP Quality Score: https://www.ipqualityscore.com/reverse-email-lookup
 - Num Lookup: https://numlooker.com/reverse-email-lookup
+
+## Social Media and People OSINT
+- Social Searcher: https://www.social-searcher.com/
+- WhatsMyName App: https://whatsmyname.app/
+- Peeplookup: https://www.peeplookup.com/free-people-search
+- Social Catfish: https://socialcatfish.com/
 - Been Verified: https://www.beenverified.com/
+- People Looker: https://www.peoplelooker.com/
+- Zoom Info: https://www.zoominfo.com/
 
 ## Email Compromise/Breach Analyzers
 - Have I Been Pwned: https://haveibeenpwned.com/
@@ -78,12 +86,6 @@ This is a collection of important tools that can be used by cyber security analy
 - City Protect: https://cityprotect.com/map/list/agencies?toDate=2022-12-25T23:59:59.999Z&fromDate=2022-12-22T00:00:00.000Z&pageSize=2000&parentIncidentTypeIds=149,150,148,8,97,104,165,98,100,179,178,180,101,99,103,163,168,166,12,161,14,16,15&zoomLevel=5&latitude=37.72581293384054&longitude=-101.06433712762069&days=1,2,3,4,5,6,7&startHour=0&endHour=24&timezone=%2B00:00&relativeDate=custom&id=5ce2bd923934cc0011edaadf
 - Family Watchdog: https://www.familywatchdog.us/
 - Vine DHS GOV: https://vinelink.dhs.gov/#/map
-
-## Social Media and People OSINT
-- Social Searcher: https://www.social-searcher.com/
-- WhatsMyName App: https://whatsmyname.app/
-- Peeplookup: https://www.peeplookup.com/free-people-search
-- 
 
 ## Other Good Resources
 - CSIRT-SK: https://github.com/CSIRT-SK
